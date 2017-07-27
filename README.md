@@ -11,3 +11,9 @@ Please attribute the author Ning@insowe.com
 This logo won the LogoVote2017.
 
 ![](main.jpg)
+
+
+## Credits
+
+- Ning Chang Ning@insowe.com
+- 盈碩數位 insowe http://www.insowe.com/
