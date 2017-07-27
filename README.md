@@ -16,4 +16,6 @@ This logo won the LogoVote2017.
 ## Credits
 
 - Ning Chang Ning@insowe.com
-- 盈碩數位 insowe http://www.insowe.com/ ![](https://avatars0.githubusercontent.com/u/6625091?v=4&s=200)
+- 盈碩數位 insowe http://www.insowe.com/
+
+![](https://avatars0.githubusercontent.com/u/6625091?v=4&s=200)
