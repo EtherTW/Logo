@@ -6,11 +6,20 @@ Please attribute the author Ning@insowe.com
 
 請註記作者 Ning@insowe.com
 
+## 使用
+
+![](/png/logo_en_black.png)
+
+![](/png/logo_en_white.png)
+
+
+![](/png/logo_en.png)
+
+
 ## Story 故事
 
 This logo won the LogoVote2017.
 
-![](main.jpg)
 
 
 ## Credits
