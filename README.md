@@ -8,13 +8,15 @@ Please attribute the author Ning@insowe.com
 
 ## 使用
 
+右鍵下載圖片
+
 ![](/png/logo_en_black.png)
+
+⬇️ 這張是透明的
 
 ![](/png/logo_en_white.png)
 
-
 ![](/png/logo_en.png)
-
 
 ## Story 故事
 
